@@ -43,7 +43,7 @@ The main repository contains:
 ## ❓ Why is the main code elsewhere?
 
 The base ArisuTalk code is hosted at `concertypin/ArisuTalk` because:
-- 💰 We don't have a paid GitHub Team license
+- 💰 We don't have a paid GitHub Team license but I have student Github Pro license!
 - 🏢 This allows for better organization management
 - 📦 Keeps the main development active and accessible
 
